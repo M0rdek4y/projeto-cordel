@@ -61,6 +61,7 @@ section.normal {
     background-color: white;
     color: black;
 }
+
 section > p {
     padding-bottom: 2em;
 }
@@ -82,7 +83,7 @@ section.imagem > p {
 
 section#img01 {
     background-image: url("../imagens/background001.jpg");
-    background-position: right center;
+    background-position: right bottom;
 }
 
 section#img02 {
